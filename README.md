@@ -1,3 +1,4 @@
+# TestCase trên các đề sau:
 # TestCase_De6.7
 <h3>Giao diện đề 6.7</h3>
 
@@ -106,7 +107,7 @@
 
 ![image](https://github.com/user-attachments/assets/489b5f01-51a9-4583-94f9-0731ba215de8)
 
-# TestCase_De9.7
+# TestCase_De11.7
 <h3>Giao diện đề 11.7</h3>
 
 ![Screenshot 2023-07-05 145108](https://github.com/user-attachments/assets/60349840-48a6-47d7-ba76-fffeaae2af58)

@@ -1,0 +1,22 @@
+Họ và tên: 8- 40 ký tự
+Ngày sinh: min 18 tuổi
+Số điện thoại: check sđt ở vn (0903872866)
+Email: chỉ cho đăng nhập bằng @gmail.com
+Vai trò: Quản lý/ Nhân viên
+Địa chỉ: max 100 ký tự
+Tỉnh và Quận: Không đc để null
+
+Tên ngân hàng: 8 - 60 ký tự
+Tên trên thẻ: Các chữ cái đầu phải là chữ in hoa, 8 -40 ký tự
+Số tài khoản: chỉ các số là tk visa (google)
+
+Tài khoản: họ và tên (không dấu, viết liền)
+Mật khẩu: 12345
+
+Số CCCD: Phải là cccd từ hcm
+Ngày cấp: min từ lúc 15 tuổi
+Nơi cấp: TPHCM
+
+Vị trí: Nhân viên bậc 1/2/3/4/5
+
+

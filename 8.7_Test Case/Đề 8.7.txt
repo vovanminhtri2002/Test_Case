@@ -1,0 +1,10 @@
+Tên khóa học: 8 - 40 ký tự
+Trình độ: ít nhất 1 option 
+Giá tiền: Số, 1.000.000 - 10.000.000
+Hình ảnh: Phải là file ảnh (tự google file ảnh là những đuôi gì)
+Lĩnh vực: ít nhất 1 option trong 3 cái (FE, BE, Database)
+Hình thức học: ít nhất 1 option trong 2 cái (online, offline)
+Link google meet: phải là link google meet (tra google)
+Số lượng học viên: Min <= 1 , Max > 20
+Mô tả khóa học: <250 ký tự 
+

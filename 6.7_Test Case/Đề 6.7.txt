@@ -1,0 +1,6 @@
+Cán bộ đọc: 10-15 ký tự
+Kỳ ghi chỉ số: Tháng/Năm (trong 2023)
+Tên sổ: Quận Trong hcm
+Ngày đầu kỳ, ngày cuối kỳ, ngày in hóa đơn: date
+Ngày đầu kỳ < ngày cuối kỳ < ngày in hóa đơn
+

@@ -1,0 +1,9 @@
+Họ và Tên: 4 - 55 ký tự
+Tên Đăng Nhập: <50 ký tự
+Email: chỉ cho đăng nhập bằng @gmail.com
+đồng thời check luôn email như thế nào mới hợp lệ
+Số điện thoại: check sđt ở vn (0903872866)
+Nhập mật khẩu: có ít nhất 6 ký tự, gồm có 1 số
+1 chữ hoa và 1 ký tự đặc biệt
+Xác nhận mật khẩu: 
+Giới thiệu bản thân <250 ký tự

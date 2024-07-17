@@ -1,0 +1,19 @@
+Mã đăng ký: bắt đầu phải là MDK, có 8 ký tự (3 ký tự đầu và 5 số)
+Đối tượng giá: Sinh viên/ doanh nghiệp
+Khu vực TT: TPHCM
+Mã vạch: bắt đầu là 079 và gồm 15 số
+Ngày lắp đạt, ngày nt: phải trong tháng 7
+Người nộp: 10 -40 ký tự
+Giảm trừ theo: nếu như là Sinh viên thì giảm 200k
+Ngày đặt cọc phải trc ngày lắp đặt
+Cam kết sd nước: check box
+Ghi chú: max 500 ký tự
+Số hợp đồng: 10 ký tự, bắt đầu là SHD
+Mục đích sử dụng: kinh doanh/ sử dụng bình thưòng
+Hình thức thanh toán: tiền mặt/ thẻ
+Ngày ký hợp đồng = ngày đặt cọc
+Người lắp đặt: 10 -40 ký tự
+Tiền lắp đặt >= tiền đặt cọc
+Số tiền: digit
+Chứng từ: allow null, max 100 ký tự
+KL cam kết: allow null, max 100 ký tự 

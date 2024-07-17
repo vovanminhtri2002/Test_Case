@@ -5,12 +5,12 @@
 
 <h3>Thông tin yêu cầu đề 6.7</h3>
 
-Cán bộ đọc: 10-15 ký tự
-Kỳ ghi chỉ số: Tháng/Năm (trong 2023)
-Tên sổ: Quận Trong hcm
-Ngày đầu kỳ, ngày cuối kỳ, ngày in hóa đơn: date
-Ngày đầu kỳ < ngày cuối kỳ < ngày in hóa đơn
+- Cán bộ đọc: 10-15 ký tự
+- Kỳ ghi chỉ số: Tháng/Năm (trong 2023)
+- Tên sổ: Quận Trong hcm
+- Ngày đầu kỳ, ngày cuối kỳ, ngày in hóa đơn: date
+- Ngày đầu kỳ < ngày cuối kỳ < ngày in hóa đơn
 
-<h3Thực hiện TestCase đề 6.7</h3>
+<h3>Thực hiện TestCase đề 6.7</h3>
 
 ![image](https://github.com/user-attachments/assets/2cb0e115-a873-49b2-bcfd-c6ce4f1a794e)
